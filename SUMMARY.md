@@ -16,4 +16,6 @@
     * [日志管理](articles/devops/3-/rizhiguanli.md)
     * [性能监控](articles/devops/3-/xingnengjiankong.md)
 * [扩展中间件监控](articles/devops/4-/README.md)
+    * [扩展中间件监控](articles/devops/4-/monitor.md)
+
 
