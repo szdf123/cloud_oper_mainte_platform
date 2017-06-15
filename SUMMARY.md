@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [产品介绍](articles/devops/1-/README.md)
-    * [产品介绍](articles/devops/1-/chanpingjieshao.md)
+    * [产品概述](articles/devops/1-/chanpingjieshao.md)
     * [系统登录及初始设置](articles/devops/1-/xitondenglu.md)
 * [用户管理](articles/devops/2-/README.md)
     * [用户管理](articles/devops/2-/yonghuguanli.md)
