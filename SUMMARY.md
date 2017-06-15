@@ -7,6 +7,9 @@
     * [基础架构](articles/devops/1-/structure.md)
     * [产品历程](articles/devops/1-/history.md)
     * [系统登录及初始设置](articles/devops/1-/xitondenglu.md)
+* [快速入门](articles/devops/5-/README.md)
+    * [场景一](articles/devops/5-/scenario_one.md)
+    * [场景二](articles/devops/5-/scenario_two.md)
 * [用户管理](articles/devops/2-/README.md)
     * [用户管理](articles/devops/2-/yonghuguanli.md)
     * [菜单管理](articles/devops/2-/caidanguanli.md)
@@ -20,5 +23,11 @@
     * [性能监控](articles/devops/3-/xingnengjiankong.md)
 * [扩展中间件监控](articles/devops/4-/README.md)
     * [扩展中间件监控](articles/devops/4-/monitor.md)
+* [产品常见问题](articles/devops/6-/README.md)
+    * [常见问题](articles/devops/6-/questions.md)
+
+
+
+
 
 
